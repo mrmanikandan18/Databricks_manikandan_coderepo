@@ -6,6 +6,10 @@ spark data
 
 https://inceptezlabs.com/bigdata/spark/
 
+#Pyspark Databricks ppt
+
+https://docs.google.com/presentation/d/13McQ-s5fY9KiQH-_ANB4VSI4gPX_BQAP/edit?pli=1&slide=id.p5#slide=id.p5
+
 https://www.instagram.com/inceptez/
 https://www.linkedin.com/company/inceptez
 https://www.facebook.com/inceptez
